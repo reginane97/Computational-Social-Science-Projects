@@ -1,0 +1,9 @@
+Git clone https://github.com/reginane97/Computational-Social-Science-Projects.git
+cd Computational-Social-Science-Projects
+mkdir “Project 1”
+touch commands.txt
+git status
+git add *
+git commit -m “make projects folder and commands text file”
+git push
+
